@@ -1,0 +1,5 @@
+streamlit>=1.32.0
+openai>=1.30.0
+tavily-python>=0.3.3
+reportlab>=4.0.0
+plotly>=5.0.0
